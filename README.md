@@ -1,6 +1,8 @@
 **Instructions:**
 
-**Clone the repo**
+**Download download-files.bundle**
+
+**Clone from the binary file into a directory**
 ```
 git clone download-files.bundle
 ```
