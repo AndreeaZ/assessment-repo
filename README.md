@@ -1,15 +1,15 @@
 **Instructions:**
 
-**Download download-files.bundle**
+* Download download-files.bundle
 
-**Clone from the binary file into a directory**
+* Clone from the binary file into a directory
 ```
 git clone download-files.bundle
 ```
 
-**Change folder path**
+* Change folder path
 ```
 cd download-files
 ```
 
-Follow the instructions from the README file inside the repo
+* Follow the instructions from the README file inside the repo
