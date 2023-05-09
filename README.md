@@ -12,4 +12,4 @@ git clone download-files.bundle
 cd download-files
 ```
 
-* Follow the instructions from the README file inside the repo
+* Follow the instructions from the README file inside download-files
